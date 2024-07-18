@@ -19,9 +19,8 @@ I'm a back-end developer at <a href="https://www.precisaosistemas.com.br/" targe
 ## Stats 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisfavore&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=prs,issues,contribs) 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfavore&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_progress=true)-->
 
-![Snake animation](https://github.com/thaisfavore/thaisfavore/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfavore&theme=cobalt&include_all_commits=true&count_private=true&hide_progress=true)
 
 ## Contact
 
