@@ -11,13 +11,6 @@ I'm a back-end developer at <a href="https://www.precisaosistemas.com.br/" targe
   <img align="center" alt="Thais-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
 
-<br/>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=thaisfavore&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfavore&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-
 ## Contact
 
 <div> 
